@@ -1,0 +1,15 @@
+:root {
+  --main-bg: #07395c;
+  --secondery-bg: #df3940;
+  --third-bg: #006594;
+}
+
+.main-bg {
+  background-color: var(--main-bg);
+}
+.secondery-bg {
+  background-color: var(--secondery-bg);
+}
+.third-bg {
+  background-color: var(--third-bg);
+}

@@ -1,0 +1,9 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --img-border: #07395c65;
+  --img-color: #9db1beb2;
+}
+.text-white {
+  color: var(--white);
+}
